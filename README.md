@@ -2,11 +2,11 @@
 
 ## 更改
 
-npmjs 上的的 egg-typescript 基本都停止维护了
+npmjs 上的的 egg-sequelize 基本都停止维护了
 
 本项目已更新了所有的 dependencies 包，适配了最新的 typescript 版 egg.js
 
-此插件已在生产项目中得到实践：[https://github.com/uni-openai/uniai-maas](https://github.com/uni-openai/uniai-maas。
+此插件已在生产项目中得到实践：<https://github.com/uni-openai/uniai-maas>
 
 ## 目的
 

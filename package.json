@@ -1,6 +1,6 @@
 {
   "name": "egg-sequelize-typescript",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Egg Sequelize typescript plugin, updated the latest dependencies",
   "eggPlugin": {
     "name": "sequelize"
